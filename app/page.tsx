@@ -8,7 +8,7 @@ import Skills          from '@/components/Skills'
 import Experience      from '@/components/Experience'
 import GitHubGraph     from '@/components/GitHubGraph'
 import Contact         from '@/components/Contact'
-import BottomNav       from '@/components/BottomNav'
+// import BottomNav       from '@/components/BottomNav'
 import FloatingContact from '@/components/FloatingContact'
 
 export default function Page() {
@@ -27,7 +27,7 @@ export default function Page() {
           <Experience />
           <GitHubGraph />
           <Contact />
-          <BottomNav />
+          {/* <BottomNav /> */}
           <FloatingContact />
         </main>
       )}
