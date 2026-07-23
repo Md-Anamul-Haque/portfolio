@@ -161,7 +161,7 @@ export default function Hero() {
                     <img src="/photo.jpg" alt="Anamul Haque"
                          className="w-full h-full object-cover object-top" />
                   */}
-                  <Image src="/anamul.png" alt="Anamul Haque" className='w-full h-full object-cover object-top' width={320} height={320} />
+                  <Image src="/anamul.jpg" alt="Anamul Haque" className='w-full h-full object-cover object-top' width={320} height={320} />
                   <div className="w-full h-full flex items-center justify-center"
                        style={{background:'linear-gradient(145deg,#0c1120,#151f38)'}}>
                     <span className="font-[family-name:var(--font-family-display)] text-[7rem] font-extrabold"
