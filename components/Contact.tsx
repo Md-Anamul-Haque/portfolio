@@ -146,7 +146,7 @@ export default function Contact() {
         <div className="mt-16 pt-8 fade-divider"/>
         <div className="mt-6 flex flex-wrap justify-between items-center gap-3">
           <p className="font-[family-name:var(--font-family-mono)] text-xs" style={{color:'var(--t3)'}}>
-            © 2026 <span style={{color:'var(--ac)'}}>Anamul Haque</span> ·
+            © 2026 <span style={{color:'var(--ac)'}}>Anamul Haque</span>
           </p>
           <p className="font-[family-name:var(--font-family-mono)] text-xs" style={{color:'var(--t3)'}}>
             🇧🇩 Dhaka, Bangladesh
